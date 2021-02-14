@@ -23,6 +23,7 @@ The design for my first site was very clear. The client needed something very st
 Day 4: February 14, 2021
 
 **Today's Progress**:
-
+Added five anchor tags styled as buttons for various groups to link to per the client's request. Four of them go to a separate site I have a link for, and one goes to a new page for investors. Created the new investors page that the one "button" links to. Sent an email to the client with some questions that have come up.
 
 **Thoughts**: 
+Had an issue with adding a background color to the anchor tags. It wouldn't display. I did a bunch of Googling only to realize I had copied the color from a border which left "solid" in the CSS. Once I removed that the background color displayed.

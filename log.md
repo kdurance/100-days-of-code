@@ -27,3 +27,12 @@ Added five anchor tags styled as buttons for various groups to link to per the c
 
 **Thoughts**: 
 Had an issue with adding a background color to the anchor tags. It wouldn't display. I did a bunch of Googling only to realize I had copied the color from a border which left "solid" in the CSS. Once I removed that the background color displayed.
+
+
+Day 5: February 15, 2021
+
+**Today's Progress**:
+Spent a few hours learning about and experimenting with CSS grid for my homepage layout.
+
+**Thoughts**: 
+CSS grid has a lot of pieces and I'm trying to wrap my head around it. I made progress but I still need to work on it some more. I think once I get it, it will be super helpful.

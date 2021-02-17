@@ -41,4 +41,7 @@ CSS grid has a lot of pieces and I'm trying to wrap my head around it. I made pr
 Day 6: February 16, 2021
 
 **Today's Progress**:
-Spent time focusing only on experimenting with CSS grid to understand how it works.
+Spent time focusing only on experimenting with CSS grid to understand how it works. Had to work with hosting company customer support to fix email issue for client.
+
+**Thoughts**:
+When I hooked up client's GoDaddy site to SiteGround I did the same thing I had done for my first client's site. I only needed to change where the name servers pointed. Unfortunately, more was needed because the client also used a GoDaddy email associated with their domain name. This change caused their email communications to break so I had to work with SiteGround support to make some more changes to allow the email to work properly. Lesson learned: Make sure you ask your client about any products they use that are also connected with their domain name.

@@ -36,3 +36,9 @@ Spent a few hours learning about and experimenting with CSS grid for my homepage
 
 **Thoughts**: 
 CSS grid has a lot of pieces and I'm trying to wrap my head around it. I made progress but I still need to work on it some more. I think once I get it, it will be super helpful.
+
+
+Day 6: February 16, 2021
+
+**Today's Progress**:
+Spent time focusing only on experimenting with CSS grid to understand how it works.

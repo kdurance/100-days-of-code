@@ -45,3 +45,12 @@ Spent time focusing only on experimenting with CSS grid to understand how it wor
 
 **Thoughts**:
 When I hooked up client's GoDaddy site to SiteGround I did the same thing I had done for my first client's site. I only needed to change where the name servers pointed. Unfortunately, more was needed because the client also used a GoDaddy email associated with their domain name. This change caused their email communications to break so I had to work with SiteGround support to make some more changes to allow the email to work properly. Lesson learned: Make sure you ask your client about any products they use that are also connected with their domain name.
+
+
+Day 7: February 17, 2021
+
+**Today's Progress**:
+Didn't plan as much time to code today. Used the time continue learning CSS grid especially for overlapping divs.
+
+**Thoughts**:
+Kind of a discouraging coding time. Some days I just wonder how long it will take for me to understand certain things, especially being new to web dev and seeing how far I still have to go.

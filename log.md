@@ -3,7 +3,7 @@
 #### Day 1: February 11, 2021
 
 **Today's Progress**:
-I created separate @media CSS files for phones and tablets/desktop. This is backend cleanup for the first live website I finished building a few weeks ago, www.jonilambtherapy.com.  
+I created separate @media CSS files for phones and tablets/desktop. This is backend cleanup for the first live website I finished building a few weeks ago, www.jonilambtherapy.com.<br><br>
 
   
 #### Day 2: February 12, 2021

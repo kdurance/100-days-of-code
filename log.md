@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-######Day 1: February 11, 2021
+Day 1: February 11, 2021
 
 **Today's Progress**:
 I created separate @media CSS files for phones and tablets/desktop. This is backend cleanup for the first live website I finished building a few weeks ago, www.jonilambtherapy.com.

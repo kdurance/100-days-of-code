@@ -55,3 +55,12 @@ Didn't plan as much time to code today. Used the time continue learning CSS grid
 
 **Thoughts**:
 Kind of a discouraging coding time. Some days I just wonder how long it will take for me to understand certain things, especially being new to web dev and seeing how far I still have to go.<br><br>
+
+
+#### Day 8: February 18, 2021
+
+**Today's Progress**:
+Decided to make the time to start working through the CSS grid Team Treehouse course.
+
+**Thoughts**:
+Grid is already starting to make better sense.<br><br>

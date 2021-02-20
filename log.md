@@ -64,3 +64,10 @@ Decided to make the time to start working through the CSS grid Team Treehouse co
 
 **Thoughts**:
 Grid is already starting to make better sense.<br><br>
+
+
+#### Day 9: February 19, 2021
+Continued working through the CSS grid Team Treehouse course.
+
+**Thoughts**:
+Okay, now I'm getting excited about grid and what it can do. I'm doing all of the quizzes and practice work to reinforce the concepts.<br><br>

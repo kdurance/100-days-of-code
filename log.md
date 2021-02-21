@@ -71,3 +71,10 @@ Continued working through the CSS grid Team Treehouse course.
 
 **Thoughts**:
 Okay, now I'm getting excited about grid and what it can do. I'm doing all of the quizzes and practice work to reinforce the concepts.<br><br>
+
+
+#### Day 10: February 20, 2021
+Worked through another section of the CSS grid Team Treehouse course.
+
+**Thoughts**:
+This is a great course and is really helping me to see how useful and time saving grid is going to be. I know how to refactor my first web dev project that I did with Chingu because of what I learned today with regard to auto-fit. I also have a better understanding of inline and block elements because I had to to figure out how to make my anchor tags stretch the width of the viewport for my current website project.

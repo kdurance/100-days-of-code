@@ -85,3 +85,10 @@ Based on my new understanding of CSS grid I sketched out the home page for my cu
 
 **Thoughts**:
 I finally got of vision of what the page should like so I did a pen and paper sketch of it. I used the sketch to start rebuilding the Steady Arc homepage.
+
+
+#### Day 12: February 22, 2021
+Continued to work on the rebuilding of the Steady Arc homepage. I decided on a design for small phones (<200px) and focused mostly on CSS changes for that size.
+
+**Thoughts**:
+Called a web dev friend for help on an issue I was having with CSS grid and my new layout and she told me about background-image. I tried to add it to my page but I didn't get the syntax right (yet!) so that was what pushed me to start working on the smallest version of site since it doesn't need an image, only the logo.

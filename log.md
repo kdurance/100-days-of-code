@@ -88,7 +88,14 @@ I finally got of vision of what the page should like so I did a pen and paper sk
 
 
 #### Day 12: February 22, 2021
-Continued to work on the rebuilding of the Steady Arc homepage. I decided on a design for small phones (<200px) and focused mostly on CSS changes for that size.
+Continued to work on the rebuilding of the Steady Arc homepage. I decided on a design for small phones (<300px) and focused mostly on CSS changes for that size.
 
 **Thoughts**:
 Called a web dev friend for help on an issue I was having with CSS grid and my new layout and she told me about background-image. I tried to add it to my page but I didn't get the syntax right (yet!) so that was what pushed me to start working on the smallest version of site since it doesn't need an image, only the logo.
+
+
+#### Day 13: February 23, 2021
+Continued working on the home page for small phones, which just needs a footer with contact info now, and started updating the desktop home page code.
+
+**Thoughts**:
+Had trouble with the image on my desktop homepage not resizing correctly, which still needs to be fixed, but I did use a nested grid to get it in the position I wanted it to be in.

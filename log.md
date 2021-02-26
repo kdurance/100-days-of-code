@@ -105,4 +105,11 @@ Had trouble with the image on my desktop homepage not resizing correctly, which 
 Worked on figuring out the background image for my desktop homepage for Steady Arc. I finally got it working the way I needed it to and because that worked I also needed to chang some of the grid design I added earlier.
 
 **Thoughts**:
-It was an hour of wins. I successfully made my first commits using Visual Studio Code, the GitLens plug in and GitHub desktop. I got background image working. 
+It was an hour of wins. I successfully made my first commits using Visual Studio Code, the GitLens plug in and GitHub desktop. I got background image working.<br><br>
+
+
+#### Day 15: February 25, 2021
+Updated the CSS design on the Steady Arc desktop homepage again.
+
+**Thoughts**:
+I asked my husband, who has a graphic design background, for some design advice on my homepage. He provided some very helpful feedback that prompted me to redesign the CSS for the desktop homepage again.<br><br>

@@ -113,3 +113,12 @@ Updated the CSS design on the Steady Arc desktop homepage again.
 
 **Thoughts**:
 I asked my husband, who has a graphic design background, for some design advice on my homepage. He provided some very helpful feedback that prompted me to redesign the CSS for the desktop homepage again.<br><br>
+
+#### Day 16: February 26, 2021
+Continued working on the CSS for the desktop homepage for Steady Arc.<br><br>
+
+#### Day 17: February 27, 2021
+Added my footer text and styled it. Did more work to CSS for Steady Arc desktop homepage.
+
+**Thoughts**:
+Just a little bit more tweaking and the desktop homepage with be complete and ready to show the client.<br><br>

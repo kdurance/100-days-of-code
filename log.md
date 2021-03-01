@@ -122,3 +122,9 @@ Added my footer text and styled it. Did more work to CSS for Steady Arc desktop 
 
 **Thoughts**:
 Just a little bit more tweaking and the desktop homepage with be complete and ready to show the client.<br><br>
+
+#### Day 18: February 28, 2021
+More CSS tweaks to header and footer and buttons.
+
+**Thoughts**:
+The background image is just huge so I cropped it multiple times to make it more manageable. Got the buttons positioned where I thought they would look good in the image whitespace on top but decided I'll going to make them vertical instead in the image whitespace to the left and see what I think.<br><br>

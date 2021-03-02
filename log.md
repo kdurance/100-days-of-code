@@ -128,3 +128,9 @@ More CSS tweaks to header and footer and buttons.
 
 **Thoughts**:
 The background image is just huge so I cropped it multiple times to make it more manageable. Got the buttons positioned where I thought they would look good in the image whitespace on top but decided I'll going to make them vertical instead in the image whitespace to the left and see what I think.<br><br>
+
+#### Day 19: March 1, 2021
+Finished the desktop homepage design for Steady Arc and for phones (300px or less) and emailed screenshots of both to the client for feedback.
+
+**Thoughts**:
+My contract with my previous employer (Voyage Advisory) ended last Friday, February 26. So now that I am unemployed I get up at my normal work time and spend the whole day learning, writing code and networking. I was happy I was able to get something to the client today.<br><br>

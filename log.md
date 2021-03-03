@@ -134,3 +134,10 @@ Finished the desktop homepage and mobile design (300px or less) for Steady Arc a
 
 **Thoughts**:
 My contract with my previous employer (Voyage Advisory) ended last Friday, February 26. So now that I am unemployed I get up at my normal work time and spend the whole day learning, writing code and networking. I was struggling with making the design look good. I swapped out a number of different Chicago background images and finally found a good match that scaled better and helped me figure out how to adjust the design so it finally looked nice. I was happy I was able to get something to the client today.<br><br>
+
+
+#### Day 20: March 2, 2021
+Worked on my media query for 301-600 pixels.
+
+**Thoughts**:
+Didn't code as much today because I also used the time to get my GitHub organized, among other things, to prepare for the promotional/networking side of my transition to web dev.<br><br>

@@ -141,3 +141,10 @@ Worked on my media query for 301-600 pixels.
 
 **Thoughts**:
 Didn't code as much today because I also used the time to get my GitHub organized, among other things, to prepare for the promotional/networking side of my transition to web dev.<br><br>
+
+
+#### Day 21: March 3, 2021
+Got all of my responsive versions of the homepage completed.
+
+**Thoughts**:
+I added the files to SiteGround for initial BrowserStack testing which showed me some small items I need to fix. I let the client know he can look at the site online now. I am aware I need to figure out options for a testing environment instead of making the site live, but I know the client hasn't advertised the site yet so I have some leeway.<br><br>

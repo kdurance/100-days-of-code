@@ -148,3 +148,24 @@ Got all of my responsive versions of the homepage completed.
 
 **Thoughts**:
 I added the files to SiteGround for initial BrowserStack testing which showed me some small items I need to fix. I let the client know he can look at the site online now. I am aware I need to figure out options for a testing environment instead of making the site live, but I know the client hasn't advertised the site yet so I have some leeway.<br><br>
+
+
+#### Day 22: March 4, 2021
+Worked on refactoring my first website locally.
+
+**Thoughts**:
+The CSS looks terrible because the responsive media queries are in one file so I've separated them out. I also want to switch to using CSS grid and background images to clean up the home page.<br><br>
+
+
+#### Day 23: March 5, 2021
+Continued working on local factoring of first website.
+
+**Thoughts**:
+Travelling, so only getting my minimum in today.<br><br>
+
+
+#### Day 24: March 6, 2021
+More local refactoring of first website.
+
+**Thoughts**:
+Travelling, so only getting my minimum in today.<br><br>

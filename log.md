@@ -178,4 +178,10 @@ More local refactoring of first website.
 
 **Thoughts**:
 Travelling, so only getting my minimum in today.<br><br>
->>>>>>> 9d3ca3cb50c95b6e0e0d3ff735a4b9a209b317e4
+
+
+#### Day 25: March 7, 2021
+Continued local refactoring of first website.
+
+**Thoughts**:
+Travelling, so only getting my minimum in today.<br><br>

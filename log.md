@@ -147,6 +147,7 @@ Didn't code as much today because I also used the time to get my GitHub organize
 Got all of my responsive versions of the homepage completed.
 
 **Thoughts**:
+<<<<<<< HEAD
 I added the files to SiteGround for initial BrowserStack testing which showed me some small items I need to fix. I let the client know he can look at the site online now. I am aware that testing should be done locally first, which I do, but I know the client hasn't advertised the site yet so I have some leeway.<br><br>
 
 #### Day 22: March 4, 2021
@@ -154,3 +155,27 @@ Worked on refactoring my first website locally for both code readability and bet
 
 **Thoughts**:
 I decided to refactor because my media queries are so confusing. I used only one CSS file instead of breaking out the queries by pixel groups. I also can't stand what I did for the homepage image and quote and now that I have understanding of grid I can apply that and background image and make it work much better.<br><br>
+=======
+I added the files to SiteGround for initial BrowserStack testing which showed me some small items I need to fix. I let the client know he can look at the site online now. I am aware I need to figure out options for a testing environment instead of making the site live, but I know the client hasn't advertised the site yet so I have some leeway.<br><br>
+
+
+#### Day 22: March 4, 2021
+Worked on refactoring my first website (www.jonilambtherapy.com) locally for both code readability and better design overall.
+
+**Thoughts**:
+I decided to refactor because my media queries are so confusing. I used only one CSS file instead of breaking out the queries by pixel groups. I also can't stand what I did for the homepage image and quote and now that I have understanding of grid I can apply that and background image and make it work much better.<br><br>
+
+
+#### Day 23: March 5, 2021
+Continued working on local factoring of first website.
+
+**Thoughts**:
+Travelling, so only getting my minimum in today.<br><br>
+
+
+#### Day 24: March 6, 2021
+More local refactoring of first website.
+
+**Thoughts**:
+Travelling, so only getting my minimum in today.<br><br>
+>>>>>>> 9d3ca3cb50c95b6e0e0d3ff735a4b9a209b317e4

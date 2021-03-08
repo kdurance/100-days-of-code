@@ -151,10 +151,10 @@ I added the files to SiteGround for initial BrowserStack testing which showed me
 
 
 #### Day 22: March 4, 2021
-Worked on refactoring my first website locally.
+Worked on refactoring my first website (www.jonilambtherapy.com) locally for both code readability and better design overall.
 
 **Thoughts**:
-The CSS looks terrible because the responsive media queries are in one file so I've separated them out. I also want to switch to using CSS grid and background images to clean up the home page.<br><br>
+I decided to refactor because my media queries are so confusing. I used only one CSS file instead of breaking out the queries by pixel groups. I also can't stand what I did for the homepage image and quote and now that I have understanding of grid I can apply that and background image and make it work much better.<br><br>
 
 
 #### Day 23: March 5, 2021

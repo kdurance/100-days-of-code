@@ -176,3 +176,31 @@ Continued local refactoring of first website.
 
 **Thoughts**:
 Traveling, so only getting my minimum in today.<br><br>
+
+
+#### Day 26: March 8, 2021
+Got a ton of refactoring done for my first site.
+
+**Thoughts**:
+The code is better organized, incorporates CSS grid and is generally more readable.<br><br>
+
+
+#### Day 27: March 9, 2021
+Still more refactoring for my first site.
+
+**Thoughts**:
+Will be able to finish up tomorrow. Almost  there.<br><br>
+
+
+#### Day 28: March 10, 2021
+Finished the refactoring of my first site.
+
+**Thoughts**:
+Incorporated three different media queries so the site is more responsive for a range of mobile sizes.<br><br>
+
+
+#### Day 29: March 11, 2021
+Made some small CSS changes to my first website before republishing.
+
+**Thoughts**:
+Made a few more CSS tweaks to www.jonilambtherapy.com after testing and republished on the hosting site.<br><br>

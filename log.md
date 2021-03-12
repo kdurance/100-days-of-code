@@ -200,7 +200,7 @@ Incorporated three different media queries so the site is more responsive for a 
 
 
 #### Day 29: March 11, 2021
-Made some small CSS changes to my first website before republishing.
+Made some CSS changes to my first website before republishing.
 
 **Thoughts**:
-Made a few more CSS tweaks to www.jonilambtherapy.com after testing and republished on the hosting site.<br><br>
+Made a few more CSS updates to www.jonilambtherapy.com after testing and republished on the hosting site.<br><br>

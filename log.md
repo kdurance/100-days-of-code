@@ -204,3 +204,17 @@ Made some CSS changes to my first website before republishing.
 
 **Thoughts**:
 Made a few more CSS updates to www.jonilambtherapy.com after testing and republished on the hosting site.<br><br>
+
+
+#### Day 30: March 12, 2021
+Started learning JavaScript today by working through a Udemy web dev course section on JavaScript.
+
+**Thoughts**:
+I included this as my coding for the day because the instructor provides a lot of challenges and examples that we have to work through ourselves.<br><br>
+
+
+#### Day 31: March 13, 2021
+Continued through another chunk of my Udemy web dev course JavaScript section.
+
+**Thoughts**:
+Worked with functions, if/else and incrementing/decrementing, among other topics.<br><br>

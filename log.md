@@ -218,3 +218,10 @@ Continued through another chunk of my Udemy web dev course JavaScript section.
 
 **Thoughts**:
 Worked with functions, if/else and incrementing/decrementing, among other topics.<br><br>
+
+
+#### Day 32: March 14, 2021
+Finished the intro to JavaScript section of my Udemy web dev course.
+
+**Thoughts**:
+Worked with more complex functions and enjoyed the code challenges.<br><br>

@@ -225,3 +225,10 @@ Finished the intro to JavaScript section of my Udemy web dev course.
 
 **Thoughts**:
 Worked with more complex functions and enjoyed the code challenges.<br><br>
+
+
+#### Day 33: March 15, 2021
+Started the intermediate JavaScript section of my Udemy web dev course.
+
+**Thoughts**:
+Cointinued working with functions combined with random and if/else statements.<br><br>

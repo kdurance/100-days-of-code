@@ -240,3 +240,10 @@ Continued working on the intermediate JavaScript section of my Udemy web dev cou
 **Thoughts**:
 Worked with functions, if/else statements, arrays and slicing. Created a little leap year calculator.<br><br>
 
+
+#### Day 35: March 17, 2021
+More work on the intermediate JavaScript section of my Udemy web dev course.
+
+**Thoughts**:
+Wrote some functions for myself just to see how JavaScript would work including the FizzBuzz challenge. It was fun to play around. Learned when to use if, if, else vs if else, else statements, which I was curious about because the multiple ifs were making my code do unexpected things.<br><br>
+

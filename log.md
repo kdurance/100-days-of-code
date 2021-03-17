@@ -231,4 +231,12 @@ Worked with more complex functions and enjoyed the code challenges.<br><br>
 Started the intermediate JavaScript section of my Udemy web dev course.
 
 **Thoughts**:
-Cointinued working with functions combined with random and if/else statements.<br><br>
+Continued working with functions combined with random and if/else statements.<br><br>
+
+
+#### Day 34: March 16, 2021
+Continued working on the intermediate JavaScript section of my Udemy web dev course.
+
+**Thoughts**:
+Worked with functions, if/else statements, arrays and slicing. Created a little leap year calculator.<br><br>
+

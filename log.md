@@ -245,5 +245,12 @@ Worked with functions, if/else statements, arrays and slicing. Created a little 
 More work on the intermediate JavaScript section of my Udemy web dev course.
 
 **Thoughts**:
-Wrote some functions for myself just to see how JavaScript would work including the FizzBuzz challenge. It was fun to play around. Learned when to use if, if, else vs if else, else statements, which I was curious about because the multiple ifs were making my code do unexpected things.<br><br>
+Wrote some functions for myself just to see how JavaScript would work including the FizzBuzz challenge. It was fun to play around. Learned when to use if, if, else vs if else, else statements, which I was curious about because the multiple ifs were making my code do unexpected things. I'm now two and half weeks into my unemployement and personal learning and I'm tired and feeling burnt out. My husband encouraged me to have more of a rest day today so I took care of myself during the day and had some nice hang time with him in the evening.<br><br>
+
+
+#### Day 36: March 18, 2021
+More intermediate JavaScript on Udemy.
+
+**Thoughts**:
+Wrote some if and while loop functions with incrementing and decrementing. Took my time to understand the concepts and how the code was running line by line using a cool code visualization tool I've used for Python but that works for other languages too. Also took a two hour JavaScript recursion course in the evening. My brain is tired.<br><br>
 

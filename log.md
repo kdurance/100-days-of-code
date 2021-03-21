@@ -268,3 +268,10 @@ Started my personal website!
 **Thoughts**:
 Created all the files for my personal site, www.katrinadurance.com. Reused the CSS resets from my last project and added in the css file references to my index.html. Had some issues getting it up on GitHub but I finally figured it out. I was hesitating to start my site because I wanted to build it using React.  I still have some vanilla JavaScript to learn before I feel ready to take on React, plus I reached out to a fellow developer for advice who told me I can always refactor later and then blog about that down the road.<br><br>
 
+
+#### Day 39: March 21, 2021
+Started building the homepage for my personal site.
+
+**Thoughts**:
+Started to learn about web fonts because I want to used some more interesting fonts outside of the common (and boring) web safe fonts. I found some I liked and downloaded them but I couldn't figure out how to get them to show up on the site yet and since I'm commiting to an hour only today I chose to move on to other stuff. I wanted to add a nice svg file to part of the page but had all sorts of issues getting the image I had coverted to svg but I finally did and got it working.I still have a lot to learn about working with images.<br><br>
+

@@ -254,3 +254,17 @@ More intermediate JavaScript on Udemy.
 **Thoughts**:
 Wrote some if and while loop functions with incrementing and decrementing. Took my time to understand the concepts and how the code was running line by line using a cool code visualization tool I've used for Python but that works for other languages too. Also took a two hour JavaScript recursion course in the evening. My brain is tired.<br><br>
 
+
+#### Day 37: March 19, 2021
+More intermediate JavaScript on Udemy.
+
+**Thoughts**:
+Learned how to build a Fibonacci number generator. Not super productive. Ended up spending more time trying to figure out how to run my JavaScript code in Visual Studio Code using Node.js instead of just using the snippets in the Chrome developer tools.<br><br>
+
+
+#### Day 38: March 20, 2021
+Started my personal website!
+
+**Thoughts**:
+Created all the files for my personal site, www.katrinadurance.com. Reused the CSS resets from my last project and added in the css file references to my index.html. Had some issues getting it up on GitHub but I finally figured it out. I was hesitating to start my site because I wanted to build it using React.  I still have some vanilla JavaScript to learn before I feel ready to take on React, plus I reached out to a fellow developer for advice who told me I can always refactor later and then blog about that down the road.<br><br>
+

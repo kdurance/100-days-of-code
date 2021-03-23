@@ -275,3 +275,10 @@ Started building the homepage for my personal site.
 **Thoughts**:
 Started to learn about web fonts because I want to used some more interesting fonts outside of the common (and boring) web safe fonts. I found some I liked and downloaded them but I couldn't figure out how to get them to show up on the site yet and since I'm commiting to an hour only today I chose to move on to other stuff. I wanted to add a nice svg file to part of the page but had all sorts of issues getting the image I had coverted to svg but I finally did and got it working.I still have a lot to learn about working with images.<br><br>
 
+
+#### Day 40: March 22, 2021
+Learned more about grid, working with the Firefox font editor and working with images and CSS.
+
+**Thoughts**:
+Had some unexpected personal interruptions at home so I wasn't as productive as I would've liked. It was more of a learning day. Played a clever game to learn more about CSS grid and I learned some good stuff. I worked on tweaking an image I wanted to use for my personal homepage. I finally got it how I wanted it and where it was resizing correctly on my page. Watched a great video on using the font editor in the Firefox dev tools and played around with it myself.<br><br>
+

@@ -282,3 +282,10 @@ Learned more about grid, working with the Firefox font editor and working with i
 **Thoughts**:
 Had some unexpected personal interruptions at home so I wasn't as productive as I would've liked. It was more of a learning day. Played a clever game to learn more about CSS grid and I learned some good stuff. I worked on tweaking an image I wanted to use for my personal homepage. I finally got it how I wanted it and where it was resizing correctly on my page. Watched a great video on using the font editor in the Firefox dev tools and played around with it myself.<br><br>
 
+
+#### Day 40: March 22, 2021
+Worked on my personal homepage. 
+
+**Thoughts**:
+Decided on a retrowave theme for my site. It's my era. I grew up in the eighties so it's not just trendy for me. Manipulated a vector (svg) image to crop it into a bunch of dividers for my blog posts. Used CSS grid to build the framework of the page.<br><br>
+

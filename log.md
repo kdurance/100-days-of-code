@@ -283,7 +283,7 @@ Learned more about grid, working with the Firefox font editor and working with i
 Had some unexpected personal interruptions at home so I wasn't as productive as I would've liked. It was more of a learning day. Played a clever game to learn more about CSS grid and I learned some good stuff. I worked on tweaking an image I wanted to use for my personal homepage. I finally got it how I wanted it and where it was resizing correctly on my page. Watched a great video on using the font editor in the Firefox dev tools and played around with it myself.<br><br>
 
 
-#### Day 40: March 22, 2021
+#### Day 41: March 23, 2021
 Worked on my personal homepage. 
 
 **Thoughts**:

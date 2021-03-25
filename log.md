@@ -297,3 +297,11 @@ Continued working on my personal homepage.
 I learned that the Chrome and Firefox dev tools each have their own tools for checking how responsive your site design is so I won't need BrowserStack anymore. Design is no joke. I now understand why it's its own career field as I'm working on the aesthetics for my own site. I have all the images I need now so today I worked on my page layouts. Also learned how to make little pixel animations and stills using Piskel so I created a cool little vaporwave cube favicon for my site and added it to my code. Tried to get a ttf font added for my header text at the end of the day but it didn't render correctly so I'll need to troubleshoot that tomorrow.<br><br>
 
 
+#### Day 43: March 25, 2021
+Fixed a font rendering issue and worked on building my "About Me" page.
+
+**Thoughts**:
+It took me a while, but I was finally able to fix my font rendering issue. It's so exciting that I can add my own fonts now instead of using boring defaults. I'm finding that images can be tricky to work with. One image I wanted to use for my "About Me" header was just too big. Tomorrow I'm going to have to look into compressing images or forcing background images to shrink to fit a grid track. I ended up using a different background image and ended up liking it a lot so we'll see what I decide to use.<br><br>
+
+
+

@@ -289,3 +289,11 @@ Worked on my personal homepage.
 **Thoughts**:
 Decided on a retrowave theme for my site. It's my era. I grew up in the eighties so it's not just trendy for me. Manipulated a vector (svg) image to crop it into a bunch of dividers for my blog posts. Used CSS grid to build the framework of the page.<br><br>
 
+
+#### Day 42: March 24, 2021
+Continued working on my personal homepage. 
+
+**Thoughts**:
+I learned that the Chrome and Firefox dev tools each have their own tools for checking how responsive your site design is so I won't need BrowserStack anymore. Design is no joke. I now understand why it's its own career field as I'm working on the aesthetics for my own site. I have all the images I need now so today I worked on my page layouts. Also learned how to make little pixel animations and stills using Piskel so I created a cool little vaporwave cube favicon for my site and added it to my code. Tried to get a ttf font added for my header text at the end of the day but it didn't render correctly so I'll need to troubleshoot that tomorrow.<br><br>
+
+

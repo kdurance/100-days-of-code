@@ -304,4 +304,8 @@ Fixed a font rendering issue and worked on building my "About Me" page.
 It took me a while, but I was finally able to fix my font rendering issue. It's so exciting that I can add my own fonts now instead of using boring defaults. I'm finding that images can be tricky to work with. One image I wanted to use for my "About Me" header was just too big. Tomorrow I'm going to have to look into compressing images or forcing background images to shrink to fit a grid track. I ended up using a different background image and ended up liking it a lot so we'll see what I decide to use.<br><br>
 
 
+#### Day 44: March 26, 2021
+Worked on the design and layout for one of my personal website pages.
 
+**Thoughts**:
+Struggling with my design more than on my last site because this is my personal site and I'm making a statement about myself. Decided to take a break and reach out to a friend and fellow web dev for some advice.<br><br>

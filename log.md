@@ -309,3 +309,9 @@ Worked on the design and layout for one of my personal website pages.
 
 **Thoughts**:
 Struggling with my design more than on my last site because this is my personal site and I'm making a statement about myself. Decided to take a break and reach out to a friend and fellow web dev for some advice.<br><br>
+
+
+#### Day 45: March 27, 2021
+Mostly JavaScript learning today.
+
+Only doing an hour today and I really needed to get back to daily JavaScript learning so I can up my web skills. I also made some small tweaks to one of my personal site pages.<br><br>

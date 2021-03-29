@@ -315,3 +315,13 @@ Struggling with my design more than on my last site because this is my personal 
 Mostly JavaScript learning today.
 
 Only doing an hour today and I really needed to get back to daily JavaScript learning so I can up my web skills. I also made some small tweaks to one of my personal site pages.<br><br>
+
+
+#### Day 46: March 28, 2021
+Spent an hour with a web dev friend getting advice on my personal website design, so I did a little bit of tweaking while we were talking but that was it. Needed to prioritize time with family and self-care.<br><br>
+
+
+#### Day 47: March 29, 2021
+Redid the design of my personal homepage and my blog page. 
+
+Much happier with my design. My convo with my friend yesterday and some rest helped.<br><br>

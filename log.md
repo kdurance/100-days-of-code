@@ -325,3 +325,9 @@ Spent an hour with a web dev friend getting advice on my personal website design
 Redid the design of my personal homepage and my blog page. 
 
 Much happier with my design. My convo with my friend yesterday and some rest helped.<br><br>
+
+
+#### Day 48: March 30, 2021
+Created the base code for my portfolio and about me pages. Finished my desktop version of my homepage.
+
+My vaporwave theme is now consistent, which I'm happy about. I also started adding some content to my about me page and spent some time on my Udemy course learning about JavaScript and the DOM.<br><br>

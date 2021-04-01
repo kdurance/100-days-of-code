@@ -331,3 +331,9 @@ Much happier with my design. My convo with my friend yesterday and some rest hel
 Created the base code for my portfolio and about me pages. Finished my desktop version of my homepage.
 
 My vaporwave theme is now consistent, which I'm happy about. I also started adding some content to my about me page and spent some time on my Udemy course learning about JavaScript and the DOM.<br><br>
+
+
+#### Day 49: March 31, 2021
+Worked on a JavaScript coding challenge and continued working on my personal website.
+
+The coding challenge was part of my Udemy course which gave me the idea to use shading for my font on my personal homepage which is more interesting. I'm also incorporating some small visual elements into my headers so they aren't so plain. I attended an online Meetup about preparing for whiteboarding interviews that was really insightful.<br><br>

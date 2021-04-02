@@ -337,3 +337,9 @@ My vaporwave theme is now consistent, which I'm happy about. I also started addi
 Worked on a JavaScript coding challenge and continued working on my personal website.
 
 The coding challenge was part of my Udemy course which gave me the idea to use shading for my font on my personal homepage which is more interesting. I'm also incorporating some small visual elements into my headers so they aren't so plain. I attended an online Meetup about preparing for whiteboarding interviews that was really insightful.<br><br>
+
+
+#### Day 50: April 1, 2021
+Got my them consistent across all four pages of my personal website.
+
+I got my first Covid vaccine shot today and got home feeling crappy so I gamed for a while my ibuprofen kicked in but I still had to fit in my coding time. Once I got going I couldn't stop and ended up putting in 4+ hours of coding. The styling for the desktop versions of all three linked pages are completely built. Now I just need to add my content. Really happy with my designs.<br><br>

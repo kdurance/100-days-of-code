@@ -340,6 +340,18 @@ The coding challenge was part of my Udemy course which gave me the idea to use s
 
 
 #### Day 50: April 1, 2021
-Got my them consistent across all four pages of my personal website.
+Got my theme consistent across all four pages of my personal website.
 
-I got my first Covid vaccine shot today and got home feeling crappy so I gamed for a while my ibuprofen kicked in but I still had to fit in my coding time. Once I got going I couldn't stop and ended up putting in 4+ hours of coding. The styling for the desktop versions of all three linked pages are completely built. Now I just need to add my content. Really happy with my designs.<br><br>
+I got my first Covid vaccine shot today and got home feeling crappy so I gamed for a while until my ibuprofen kicked in but I still had to fit in my coding time. Once I got going I couldn't stop and ended up putting in 4+ hours of coding. The styling for the desktop versions of all three linked pages are completely built. Now I just need to add my content. Really happy with my designs.<br><br>
+
+
+#### Day 51: April 2, 2021
+Felt even worse today after my Covid vaccine shot yesterday so I took a sick day.<br><br>
+
+
+#### Day 52: April 3, 2021
+Only did my hour today so I spent it by starting to alter the code for the responsive pages for my personal website.
+
+It looks like I may need more than three breakpoints for this site.<br><br>
+
+

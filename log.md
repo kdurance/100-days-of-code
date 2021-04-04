@@ -355,3 +355,9 @@ Only did my hour today so I spent it by starting to alter the code for the respo
 It looks like I may need more than three breakpoints for this site.<br><br>
 
 
+#### Day 53: April 4, 2021
+Got my homepage looking good at all breakpoints and started working on my about me breakpoints.
+
+The three breakpoints I'm using look like they'll be sufficient. Glad I don't have to add any more.<br><br>
+
+

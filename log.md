@@ -361,3 +361,7 @@ Got my homepage looking good at all breakpoints and started working on my about 
 The three breakpoints I'm using look like they'll be sufficient. Glad I don't have to add any more.<br><br>
 
 
+#### Day 54: April 5, 2021
+Learning day focused on JavaScript and Bootstrap.
+
+This week and next are my push to learn Bootstrap and deepen my JavaScript knowledge and understanding before I start applying to jobs.<br><br>

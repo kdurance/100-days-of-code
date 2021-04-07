@@ -365,3 +365,9 @@ The three breakpoints I'm using look like they'll be sufficient. Glad I don't ha
 Learning day focused on JavaScript and Bootstrap.
 
 This week and next are my push to learn Bootstrap and deepen my JavaScript knowledge and understanding before I start applying to jobs.<br><br>
+
+
+#### Day 55: April 6, 2021
+Worked on my responsive about me pages and did some Bootstrap learning.
+
+Ran into issues with a work-around to use one image for small screens and a different image for larger ones. When I used a background image, a fine line of white pixels showed up around the image for reasons unknown, which looked terrible with the border around it and there was no way to fix it that I could find. I ended up just using display: none which left the image quality intact and worked.<br><br>

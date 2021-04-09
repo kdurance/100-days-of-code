@@ -381,3 +381,7 @@ I really want and need to understand how JavaScript works under the hood to both
 
 #### Day 57: April 8, 2021
 Focused on the DOM today and understanding how and why it works the way it does. I also worked on some freeCodeCamp JavaScript challenges for learning reinforcement.<br><br>
+
+
+#### Day 58: April 9, 2021
+Worked on understanding the concepts of "passed by value" and "passed by reference" for JavaScript in particular and found it helpful. Ended up focusing mostly on networking today to start getting me ready for applying for frontend jobs. Also made a new daily plan for my learning to help me stay away from getting into the weeds researching tech topics.<br><br>

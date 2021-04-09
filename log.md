@@ -371,3 +371,13 @@ This week and next are my push to learn Bootstrap and deepen my JavaScript knowl
 Worked on my responsive about me pages and did some Bootstrap learning.
 
 Ran into issues with a work-around to use one image for small screens and a different image for larger ones. When I used a background image, a fine line of white pixels showed up around the image for reasons unknown, which looked terrible with the border around it and there was no way to fix it that I could find. I ended up just using display: none which left the image quality intact and worked.<br><br>
+
+
+#### Day 56: April 7, 2021
+Spent the day reading You Don't Know JS Yet. 
+
+I really want and need to understand how JavaScript works under the hood to both prepare for learning React next week and for interviewing. I ended up doing a bunch of side research as well, reading a bunch of articles to make sure I'm understanding the CS terms referenced in the book. Decided to nix Bootstrap learning. It's just not a priority right now.<br><br>
+
+
+#### Day 57: April 8, 2021
+Focused on the DOM today and understanding how and why it works the way it does. I also worked on some freeCodeCamp JavaScript challenges for learning reinforcement.<br><br>

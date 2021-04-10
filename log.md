@@ -385,3 +385,7 @@ Focused on the DOM today and understanding how and why it works the way it does.
 
 #### Day 58: April 9, 2021
 Worked on understanding the concepts of "passed by value" and "passed by reference" for JavaScript in particular and found it helpful. Ended up focusing mostly on networking today to start getting me ready for applying for frontend jobs. Also made a new daily plan for my learning to help me stay away from getting into the weeds researching tech topics.<br><br>
+
+
+#### Day 59: April 10, 2021
+The extent of my tech work for the day was that I had a networking call with a web dev contact to discuss his frontend role and interviewing experience. Had to tackle our home and business taxes today so no coding got done.<br><br>

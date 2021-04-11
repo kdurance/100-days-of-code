@@ -389,3 +389,7 @@ Worked on understanding the concepts of "passed by value" and "passed by referen
 
 #### Day 59: April 10, 2021
 The extent of my tech work for the day was that I had a networking call with a web dev contact to discuss his frontend role and interviewing experience. Had to tackle our home and business taxes today so no coding got done.<br><br>
+
+
+#### Day 60: April 11, 2021
+Plural Sight's courses are free for April so I decided to start working through their JavaScript course. So far I like it better than my Udemy course because it's more detailed and used Node.js to run the code. I've only been running my JS using the browser so far so it's great to know the other way to run it.<br><br>

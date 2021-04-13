@@ -392,4 +392,8 @@ The extent of my tech work for the day was that I had a networking call with a w
 
 
 #### Day 60: April 11, 2021
-Plural Sight's courses are free for April so I decided to start working through their JavaScript course. So far I like it better than my Udemy course because it's more detailed and used Node.js to run the code. I've only been running my JS using the browser so far so it's great to know the other way to run it.<br><br>
+Pluralsight's courses are free for April so I decided to start working through their JavaScript course. So far I like it much better than my Udemy course because it's more detailed and uses Node.js to run the code. I've only been running my JS using the browser so far, so it's great to know the other way to run it.<br><br>
+
+
+#### Day 61: April 12, 2021
+Continued working through Pluralsight JS course. Met online with a dev friend who's providing some mentoring during this frontend learning period. She recommended I skip relearning all the JS basics with this new course and just skip ahead to the web based JS I need.<br><br>

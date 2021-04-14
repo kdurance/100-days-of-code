@@ -397,3 +397,7 @@ Pluralsight's courses are free for April so I decided to start working through t
 
 #### Day 61: April 12, 2021
 Continued working through Pluralsight JS course. Met online with a dev friend who's providing some mentoring during this frontend learning period. She recommended I skip relearning all the JS basics with this new course and just skip ahead to the web based JS I need.<br><br>
+
+
+#### Day 62: April 13, 2021
+Got my footer layout built for all three of my personal website pages, just need to add the links. Learned about adding HTTPS to websites. Started to set it up but discovered I need to reorganize my code files so I did that for www.jonilambtherapy.com and will add the security tomorrow.<br><br>

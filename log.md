@@ -409,3 +409,7 @@ Refactored the code on www.jonilambtherapy.com to simplify the filepaths all pag
 
 #### Day 64: April 15, 2021
 Worked on my Pluralsight JS course. Had a phone screen for an engineering role and ended up spending time setting up Visual Studio 2019 and C# to refamiliarize myself with it for the tech screen that's the next step in the process.<br><br>
+
+
+#### Day 65: April 16, 2021
+Finished my Pluralsight JS foundations course and started on of their advanced JS courses. Worked on my personal website, cleaning up some of the code and switching out one of my fonts after doing some research. It matches the header and footer font better and is still readable. Used a cool tool called Fontjoy to find the match.<br><br>

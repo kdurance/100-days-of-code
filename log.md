@@ -405,3 +405,7 @@ Got my footer layout built for all three of my personal website pages, just need
 
 #### Day 63: April 14, 2021
 Refactored the code on www.jonilambtherapy.com to simplify the filepaths all pages and republished it to the hosting site. Worked on my Pluralsight JS course. Learned about JS objects and how they interact with the DOM.<br><br>
+
+
+#### Day 64: April 15, 2021
+Worked on my Pluralsight JS course. Had a phone screen for an engineering role and ended up spending time setting up Visual Studio 2019 and C# to refamiliarize myself with it for the tech screen that's the next step in the process.<br><br>

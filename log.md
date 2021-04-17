@@ -413,3 +413,7 @@ Worked on my Pluralsight JS course. Had a phone screen for an engineering role a
 
 #### Day 65: April 16, 2021
 Finished my Pluralsight JS foundations course and started on of their advanced JS courses. Worked on my personal website, cleaning up some of the code and switching out one of my fonts after doing some research. It matches the header and footer font better and is still readable. Used a cool tool called Fontjoy to find the match.<br><br>
+
+
+#### Day 66: April 17, 2021
+More work on JavaScript learning from a few different resources.<br><br>

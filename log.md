@@ -416,4 +416,12 @@ Finished my Pluralsight JS foundations course and started on of their advanced J
 
 
 #### Day 66: April 17, 2021
-More work on JavaScript learning from a few different resources.<br><br>
+More work on JavaScript learning from a few different resources. <br><br>
+
+
+#### Day 67: April 18, 2021
+Started setting up a new JavaScript project in VS Code for small JS learning projects.<br><br>
+
+
+#### Day 68: April 19, 2021
+Built a rock, paper, scissors game from scratch with JavaScript. It successfully runs but has a couple of bugs that I suspect are specific to the way JS parses code, relating to the or operator (||) and for loops. Will dig into those issues tomorrow. Added links to the social media icons on all pages of my personal website.<br><br>

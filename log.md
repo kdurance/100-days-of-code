@@ -425,3 +425,11 @@ Started setting up a new JavaScript project in VS Code for small JS learning pro
 
 #### Day 68: April 19, 2021
 Built a rock, paper, scissors game from scratch with JavaScript. It successfully runs but has a couple of bugs that I suspect are specific to the way JS parses code, relating to the or operator (||) and for loops. Will dig into those issues tomorrow. Added links to the social media icons on all pages of my personal website.<br><br>
+
+
+#### Day 69: April 20, 2021
+This week I'm starting to look for jobs. Lots of networking all day. Weirdly I completely forgot to code.<br><br>
+
+
+#### Day 70: April 21, 2021
+Another heavy networking day. Worked on a C# tutorial in prep for a technical assessment for a job.<br><br>

@@ -433,3 +433,15 @@ This week I'm starting to look for jobs. Lots of networking all day. Weirdly I c
 
 #### Day 70: April 21, 2021
 Another heavy networking day. Worked on a C# tutorial in prep for a technical assessment for a job.<br><br>
+
+
+#### Day 71: April 22, 2021
+Took the day off. Felt awful after second vaccine shot.<br><br>
+
+
+#### Day 72: April 23, 2021
+Took the day off. Felt worse than yesterday.<br><br>
+
+
+#### Day 73: April 24, 2021
+Worked through some www.codewars.com JavaScript challenges.<br><br>

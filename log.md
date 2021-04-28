@@ -457,3 +457,7 @@ Did some research on JavaScript game development. Started working through a tuto
 
 #### Day 76: April 27, 2021
 Continued working on the breakout game tutorial. It's been really helpful for me to see how to break a big problem down into bite sized pieces and what built-in functions and syntax are used for the different pieces. Today was my first intro to event listeners for instance.<br><br>
+
+
+#### Day 77: April 28, 2021
+More work on breakout game tutorial and a little bit of work on a JavaScript Pluralsight course on objects. Had a great conversation with a guy I connected with that I heard on a podcast. He helped me rethink my learning plan so I need to sleep on it and recalibrate tomorrow.<br><br>

@@ -445,3 +445,15 @@ Took the day off. Felt worse than yesterday.<br><br>
 
 #### Day 73: April 24, 2021
 Worked through some www.codewars.com JavaScript challenges.<br><br>
+
+
+#### Day 74: April 25, 2021
+Spent some time reading Eloquent JavaScript.<br><br>
+
+
+#### Day 75: April 26, 2021
+Did some research on JavaScript game development. Started working through a tutorial to build a breakout type game. Building games is definitely a more meaningful way for me to learn programming. The visual context helps me get the concepts more easily.<br><br>
+
+
+#### Day 76: April 27, 2021
+Continued working on the breakout game tutorial. It's been really helpful for me to see how to break a big problem down into bite sized pieces and what built-in functions and syntax are used for the different pieces. Today was my first intro to event listeners for instance.<br><br>

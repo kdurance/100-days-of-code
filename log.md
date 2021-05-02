@@ -471,5 +471,9 @@ Focused on job search today. No code.<br><br>
 Focused on job search and networking. I had a follow-up interview to discuss the recent technical assessment I did for Polaris. No code.<br><br>
 
 
-#### Day 80: Mary 1, 2021
+#### Day 80: May 1, 2021
 I was so inspired by my interview with Polaris yesterday that I decided to start learning C# today.<br><br>
+
+
+#### Day 81: May 2, 2021
+Did some research and found a C# course at https://codewithmosh.com/ that I think I'm really going to enjoy. Started working through it today.<br><br>

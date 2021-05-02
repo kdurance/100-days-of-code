@@ -461,3 +461,15 @@ Continued working on the breakout game tutorial. It's been really helpful for me
 
 #### Day 77: April 28, 2021
 More work on breakout game tutorial and a little bit of work on a JavaScript Pluralsight course on objects. Had a great conversation with a guy I connected with that I heard on a podcast. He helped me rethink my learning plan so I need to sleep on it and recalibrate tomorrow.<br><br>
+
+
+#### Day 78: April 29, 2021
+Focused on job search today. No code.<br><br>
+
+
+#### Day 79: April 30, 2021
+Focused on job search and networking. I had a follow-up interview to discuss the recent technical assessment I did for Polaris. No code.<br><br>
+
+
+#### Day 80: Mary 1, 2021
+I was so inspired by my interview with Polaris yesterday that I decided to start learning C# today.<br><br>

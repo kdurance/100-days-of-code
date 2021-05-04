@@ -477,3 +477,7 @@ I was so inspired by my interview with Polaris yesterday that I decided to start
 
 #### Day 81: May 2, 2021
 Did some research and found a C# course at https://codewithmosh.com/ that I think I'm really going to enjoy. Started working through it today.<br><br>
+
+
+#### Day 82: May 3, 2021
+Continued working through my new C# course. Got the code for an old C# project, from a course I took at Columbia College Chicago, to run in Visual Studio. It was helpful to see how I structured my code and reminded me how some things like namespaces and the Main space work in C#.<br><br>

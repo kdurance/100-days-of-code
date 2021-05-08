@@ -485,3 +485,19 @@ Continued working through my new C# course. Got the code for an old C# project, 
 
 #### Day 83: May 4, 2021
 Decided to pick up a Udemy SQL course to sharpen those skills while I'm looking for data jobs again. Spent some time working through that today.<br><br>
+
+
+#### Day 84: May 5, 2021
+Worked on my https://codewithmosh.com/ intro C# course. He really explains things well, getting into the computer science  of how things work which is exactly how I wanted to learn it.<br><br>
+
+
+#### Day 85: May 6, 2021
+Worked on my https://codewithmosh.com/ intro C# course.<br><br>
+
+
+#### Day 86: May 7, 2021
+Worked on my https://codewithmosh.com/ intro C# course.<br><br>
+
+
+#### Day 87: May 8, 2021
+<br><br>

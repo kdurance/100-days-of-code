@@ -500,4 +500,8 @@ Worked on my https://codewithmosh.com/ intro C# course.<br><br>
 
 
 #### Day 87: May 8, 2021
-<br><br>
+Celebrated Mother's Day a day early with my daughter since she has a lot going on tomorrow. Did not code.<br><br>
+
+
+#### Day 88: May 8, 2021
+Worked on my https://codewithmosh.com/ intro C# course.<br><br>

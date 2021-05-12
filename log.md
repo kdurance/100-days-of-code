@@ -503,5 +503,13 @@ Worked on my https://codewithmosh.com/ intro C# course.<br><br>
 Celebrated Mother's Day a day early with my daughter since she has a lot going on tomorrow. Did not code.<br><br>
 
 
-#### Day 88: May 8, 2021
+#### Day 88: May 9, 2021
 Worked on my https://codewithmosh.com/ intro C# course.<br><br>
+
+
+#### Day 89: May 10, 2021
+Watched some tutorials to help me set up my Visual Studio environment so I can start playing around with Xamarin and C#.<br><br>
+
+
+#### Day 90: May 11, 2021
+Back to working on my https://codewithmosh.com/ intro C# course. As I go through this course and from my JavaScript learning, I keep coming back to the importance of understanding how memory allocation works in a computer so I also started doing research to understand pointers and stack vs heap memory.<br><br>

@@ -513,3 +513,11 @@ Watched some tutorials to help me set up my Visual Studio environment so I can s
 
 #### Day 90: May 11, 2021
 Back to working on my https://codewithmosh.com/ intro C# course. As I go through this course and from my JavaScript learning, I keep coming back to the importance of understanding how memory allocation works in a computer so I also started doing research to understand pointers and stack vs heap memory.<br><br>
+
+
+#### Day 91: May 12, 2021
+Emotionally tough day. Needed some time to think and chill so I didn't code. I took care of myself and enjoyed a long walk with a friend.<br><br>
+
+
+#### Day 92: May 13, 2021
+Made the decision to do the Pybites Python Developer Mindset coaching program. Very excited to get back to my Python roots. I start on Monday so to prepare for it I refreshed my Python OOP understanding with a Real Python tutorial. It feels so good to be working with Python again!<br><br>

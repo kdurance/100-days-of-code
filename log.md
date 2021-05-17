@@ -521,3 +521,15 @@ Emotionally tough day. Needed some time to think and chill so I didn't code. I t
 
 #### Day 92: May 13, 2021
 Made the decision to do the Pybites Python Developer Mindset coaching program. Very excited to get back to my Python roots. I start on Monday so to prepare for it I refreshed my Python OOP understanding with a Real Python tutorial. It feels so good to be working with Python again!<br><br>
+
+
+#### Day 93: May 14, 2021
+More work on Python OOP concepts through Real Python. I feel like I'm finally really understanding the underlying concepts of it now.<br><br>
+
+
+#### Day 94: May 15, 2021
+More Python learning, focusing on web scraping, and other prep to get ready for my PyBites coaching program.<br><br>
+
+
+#### Day 95: May 16, 2021
+More learning about web scraping in Python using Real Python.<br><br>

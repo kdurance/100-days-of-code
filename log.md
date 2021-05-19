@@ -520,7 +520,7 @@ Emotionally tough day. Needed some time to think and chill so I didn't code. I t
 
 
 #### Day 92: May 13, 2021
-Made the decision to do the Pybites Python Developer Mindset coaching program. Very excited to get back to my Python roots. I start on Monday so to prepare for it I refreshed my Python OOP understanding with a Real Python tutorial. It feels so good to be working with Python again!<br><br>
+Made the decision to do the Pybites Developer Mindset (PDM) coaching program. Very excited to get back to my Python roots. I start on Monday so to prepare for it I refreshed my Python OOP understanding with a Real Python tutorial. It feels so good to be working with Python again!<br><br>
 
 
 #### Day 93: May 14, 2021
@@ -528,8 +528,28 @@ More work on Python OOP concepts through Real Python. I feel like I'm finally re
 
 
 #### Day 94: May 15, 2021
-More Python learning, focusing on web scraping, and other prep to get ready for my PyBites coaching program.<br><br>
+More Python learning, focusing on web scraping, and other prep to get ready for PDM.<br><br>
 
 
 #### Day 95: May 16, 2021
 More learning about web scraping in Python using Real Python.<br><br>
+
+
+#### Day 96: May 17, 2021
+Focused on onboarding and planning for my two PDM projects.<br><br>
+
+
+#### Day 97: May 18, 2021
+Thought I would be able to start building a SQL Server database for my first PDM app but I was wrong. I quickly discovered that a relational database doesn't make sense at all since each "table" will simply be a column of values (e.g. book titles, websites or other resources) so I looked into noSQL database options and after some further research decided to use Cassandra because the querying syntax is similar to TSQL and for a few other reasons I read about in an article comparing MongoDB and Cassandra.<br><br>
+
+
+#### Day 98: May 19, 2021
+<br><br>
+
+
+#### Day 99: May 20, 2021
+<br><br>
+
+
+#### Day 100: May 21, 2021
+<br><br>

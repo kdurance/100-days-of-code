@@ -51,7 +51,7 @@ When I hooked up client's GoDaddy site to SiteGround I did the same thing I had 
 #### Day 7: February 17, 2021
 
 **Today's Progress**:
-Didn't plan as much time to code today. Used the time continue learning CSS grid especially for overlapping divs.
+Didn't plan as much time to code today. Used the time to continue learning CSS grid especially for overlapping divs.
 
 **Thoughts**:
 Kind of a discouraging coding time. Some days I just wonder how long it will take for me to understand certain things, especially being new to web dev and seeing how far I still have to go.<br><br>

@@ -544,12 +544,12 @@ Thought I would be able to start building a SQL Server database for my first PDM
 
 
 #### Day 98: May 19, 2021
-<br><br>
+Bob from my PDM program steered me away from NoSQL databases and back to relational databases. So I did more database research and reworked the table design for my first PDM project.<br><br>
 
 
 #### Day 99: May 20, 2021
-<br><br>
+Tweaked my database design, got some more feedback from PDM and built it in SQL Server.<br><br>
 
 
 #### Day 100: May 21, 2021
-<br><br>
+Created my blog post placeholders on my personal website. Plan to finish my personal site next week so I can start blogging about my learning and coaching program progress.<br><br>
